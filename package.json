@@ -1,6 +1,7 @@
 {
   "name": "github-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "A library for the GitHub API that fetches data from the API.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -8,8 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "keywords": ["github", "api", "nodejs"],
+  "author": "chethanyadav456",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanyadav456/Github-Api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chethanyadav456/Github-Api"
+  },
+  "homepage": "https://discord.gg/KMKas4pTkZ"
 }
