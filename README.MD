@@ -1,12 +1,11 @@
 # Github API
+A library for the GitHub API that fetches data from the API.
 
-## Description
-This is a simple API that allows you to interact with the Github API. It allows you to search for repositories by name and get the details of a specific repository.
 
 ## Installation
 To install this package, you can use the following command:
 ```bash
-npm install github-api
+npm install @chethanyadav456/github-api
 ```
 
 ## Usage
