@@ -1,6 +1,9 @@
 # Github API
 A library for the GitHub API that fetches data from the API.
 
+[![DeepSource](https://app.deepsource.com/gh/chethanyadav456/Github-Api.svg/?label=code+coverage&show_trend=true&token=iQeRMNE2mbRs0Olsv46Z_gMj)](https://app.deepsource.com/gh/chethanyadav456/Github-Api/)
+[![DeepSource](https://app.deepsource.com/gh/chethanyadav456/Github-Api.svg/?label=active+issues&show_trend=true&token=iQeRMNE2mbRs0Olsv46Z_gMj)](https://app.deepsource.com/gh/chethanyadav456/Github-Api/)
+[![DeepSource](https://app.deepsource.com/gh/chethanyadav456/Github-Api.svg/?label=resolved+issues&show_trend=true&token=iQeRMNE2mbRs0Olsv46Z_gMj)](https://app.deepsource.com/gh/chethanyadav456/Github-Api/)
 
 ## Installation
 To install this package, you can use the following command:
