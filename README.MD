@@ -1,5 +1,10 @@
 # Github API
-A library for the GitHub API that fetches data from the API.
+A Unofficial library for the GitHub API that fetches data from the API.
+
+[![npm](https://img.shields.io/npm/v/@chethanyadav456/github-api?color=crimson&logo=npm)](https://www.npmjs.com/package/@chethanyadav456/github-api)
+![NPM License](https://img.shields.io/npm/l/%40chethanyadav456%2Fgithub-api?logo=npm)
+![NPM Downloads](https://img.shields.io/npm/d18m/%40chethanyadav456%2Fgithub-api?logo=npm)
+![Discord](https://img.shields.io/discord/807872777490137088?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FKMKas4pTkZ)
 
 [![DeepSource](https://app.deepsource.com/gh/chethanyadav456/Github-Api.svg/?label=code+coverage&show_trend=true&token=iQeRMNE2mbRs0Olsv46Z_gMj)](https://app.deepsource.com/gh/chethanyadav456/Github-Api/)
 [![DeepSource](https://app.deepsource.com/gh/chethanyadav456/Github-Api.svg/?label=active+issues&show_trend=true&token=iQeRMNE2mbRs0Olsv46Z_gMj)](https://app.deepsource.com/gh/chethanyadav456/Github-Api/)
